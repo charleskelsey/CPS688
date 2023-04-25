@@ -15,3 +15,12 @@ respectively. The next e lines represent the vertices that are connected by an e
 
 Output \
 For each test case, print the graph using both BFS and DFS.
+
+| Sample Input     | Sample Output     |
+| ---------------- | ----------------- |
+| 6 5 \ 0 1 | yes               |
+| 0 1              |                   |
+| 0 2              |                   |
+| 0 3              |                   |
+| 1 4              |                   |
+| 2 5              |                   |
