@@ -18,7 +18,7 @@ For each test case, print the graph using both BFS and DFS.
 
 | Sample Input     | Sample Output     |
 | ---------------- | ----------------- |
-| 6 5 \ 0 1 | yes               |
+| 6 5 <br /> 0 1            | yes               |
 | 0 1              |                   |
 | 0 2              |                   |
 | 0 3              |                   |
