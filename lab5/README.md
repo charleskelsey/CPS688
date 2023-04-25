@@ -13,6 +13,7 @@ For each test case, determine the position(s) of the pattern(s) found in the tex
 | Enter the text: Hello World <br /> Enter the pattern: World | Pattern World found at index 6 |
 | Enter the text: ATAACGGCTAATA <br /> Enter the pattern: ATA | Pattern ATA found at indices 0, 10 |
 
+<br /> <br />
 
 **Problem 2 - Rabin-Karp Substring Search** \
 Implement the Rabin-Karp substring search algorithm in Java (Las Vegas version, see lecture
