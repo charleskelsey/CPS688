@@ -21,3 +21,8 @@ the antennas that are connected by a cable.
 
 Output \
 For each test case, print “yes” if all the antennas can communicate with each other; else print “no”.
+
+| Sample Input | Sample Output |
+| --- | --- |
+| 4 4 <br /> 0 1 <br /> 1 2 <br /> 2 3 <br /> 3 0 | yes |
+| 6 7 <br /> 0 1 <br /> 0 2 <br /> 2 4 <br /> 3 1 <br /> 3 5 <br /> 4 5 <br /> 5 0 | no |
