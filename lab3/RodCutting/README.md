@@ -31,7 +31,7 @@ subproblem, we have already solved all of the smaller subproblems its solution d
 and we have saved their solutions. We solve each subproblem only once, and when we first see
 it, we have already solved all of its prerequisite subproblems.
 
-![image](https://user-images.githubusercontent.com/130581038/234330123-598724d1-6eb8-406b-b779-e2784f0878ca.png)
+![image](https://user-images.githubusercontent.com/130581038/234330400-8edae55e-d14b-48d5-852d-400883ed9653.png)
 
 
 Here we proactively compute the solutions for smaller rods first, knowing that they will later be
