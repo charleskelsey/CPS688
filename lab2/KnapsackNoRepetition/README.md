@@ -17,3 +17,6 @@ Input:
 
 Output: \
 Output the highest sentimental aggregated value
+
+| Sample Input | Sample Output |
+| 3 <br /> 6 10 12 <br /> 1 2 3 <br /> 5 | 22 |
