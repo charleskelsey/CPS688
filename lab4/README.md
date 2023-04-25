@@ -7,7 +7,6 @@ possible get jobs as shown below.
 
 ![image](https://user-images.githubusercontent.com/130581038/234332991-ea9afb89-82fe-4f2f-b6ac-bc4eea6d9763.png)
 
-
 Steps:
   1. Convert the problem into a Flow Network: Add a source and add edges from the source
 to all applicants. Similarly, add edges from all jobs to the target. The capacity of every
@@ -22,3 +21,7 @@ list representation of the problem.
 
 Output \
 For each test case, determine the maximum number of applicants matching the jobs.
+
+| Sample Input | Sample Output |
+| 0 1 1 0 0 0 <br /> 0 0 0 0 0 0 <br /> 1 0 0 1 0 0 <br /> 0 0 1 0 0 0
+0 0 1 1 0 0 <br /> 0 0 0 0 0 1 | The maximum number of applicants matching for the jobs is 5 |
