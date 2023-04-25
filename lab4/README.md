@@ -23,5 +23,6 @@ Output \
 For each test case, determine the maximum number of applicants matching the jobs.
 
 | Sample Input | Sample Output |
+| --- | --- |
 | 0 1 1 0 0 0 <br /> 0 0 0 0 0 0 <br /> 1 0 0 1 0 0 <br /> 0 0 1 0 0 0
 0 0 1 1 0 0 <br /> 0 0 0 0 0 1 | The maximum number of applicants matching for the jobs is 5 |
