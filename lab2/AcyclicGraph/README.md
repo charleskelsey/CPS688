@@ -14,12 +14,7 @@ For each test case, print “no” if the graph contains a cycle; else print “
 | --- | --- |
 | 6 6 <br /> 0 1 <br /> 0 3 <br /> 1 2 <br /> 2 4 <br /> 3 4 <br /> 3 5 | no |
 
-| Sample Input     | Sample Output     |
-| ---------------- | ----------------- |
-| 6 5              | yes               |
-| 0 1              |                   |
-| 0 2              |                   |
-| 0 3              |                   |
-| 1 4              |                   |
-| 2 5              |                   |
+| Sample Input | Sample Output |     
+| --- | --- |
+| 6 6 <br /> 0 1 <br /> 0 2 <br /> 0 3 <br /> 1 4 <br /> 2 5 | yes |
 
