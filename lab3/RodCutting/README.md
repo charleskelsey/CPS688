@@ -10,7 +10,7 @@ Rod lengths are integers
 
 For i=1, 2,...,n we know the price(revenue) p[i] of a rod of length i inches.
 
-|     |     |     |
-| --- | --- | --- |
-| Length i | 1 | 2 |
-| Price p[i] | 1 | 5 |
+|            |   |   |   |   |    |    |    |    |    |    |
+| ---------- |---|---|---|---|----|----|----|----|----|----|
+| Length i   | 1 | 2 | 3 | 4 | 5  | 6  | 7  | 8  | 9  | 10 |
+| Price p[i] | 1 | 5 | 8 | 9 | 10 | 17 | 17 | 20 | 24 | 30 |
