@@ -8,6 +8,7 @@ more than one Q in the row and column).
 See the example below.
 
 Input: your input should take the number of matrix size N. your matrix is a zeros matrix.
+
 Output: your output is a binary matrix which has 1s for the blocks where queens are placed.
 
 Sample Input
