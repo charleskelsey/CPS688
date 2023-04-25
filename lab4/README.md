@@ -5,6 +5,9 @@ appointed for only one job. Implement and use the Ford-Fulkerson Algorithm for M
 Flow Problem to find the assignment of jobs to applicants such that as many applicants as
 possible get jobs as shown below.
 
+![image](https://user-images.githubusercontent.com/130581038/234332991-ea9afb89-82fe-4f2f-b6ac-bc4eea6d9763.png)
+
+
 Steps:
   1. Convert the problem into a Flow Network: Add a source and add edges from the source
 to all applicants. Similarly, add edges from all jobs to the target. The capacity of every
