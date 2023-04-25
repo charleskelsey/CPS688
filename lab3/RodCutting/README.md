@@ -19,7 +19,7 @@ Cut possibilities for a rod of length 4: \
 1+1+1+1 for a total price of 1+1+1+1=4 \
 2+1+1 for a total price of: 5+1+1+1=8 \
 2+2 for a total price of 5+5=10 \
-3+1 for a total price of 8+1=9 \
+3+1 for a total price of 8+1=9
 
 For a rod of length 4: 2+2 is optimal (p[2]+p[2]=10)
 
@@ -30,6 +30,9 @@ subproblems by size and solve them in size order, smallest first. When solving a
 subproblem, we have already solved all of the smaller subproblems its solution depends upon,
 and we have saved their solutions. We solve each subproblem only once, and when we first see
 it, we have already solved all of its prerequisite subproblems.
+
+![image](https://user-images.githubusercontent.com/130581038/234330123-598724d1-6eb8-406b-b779-e2784f0878ca.png)
+
 
 Here we proactively compute the solutions for smaller rods first, knowing that they will later be
 used to compute the solutions for larger rods. The answer will once again be stored in r[n].
