@@ -33,12 +33,13 @@ it, we have already solved all of its prerequisite subproblems.
 
 ![image](https://user-images.githubusercontent.com/130581038/234330400-8edae55e-d14b-48d5-852d-400883ed9653.png)
 
-
 Here we proactively compute the solutions for smaller rods first, knowing that they will later be
 used to compute the solutions for larger rods. The answer will once again be stored in r[n].
-Input
+
+Input \
 Your program will be tested against multiple test cases. Each test case begins with an integer n
 representing the length of the rod followed by n elements representing the prices.
-Output
+
+Output \
 For each test case, determine the maximum value obtainable by cutting up the rod and selling
 the pieces.
