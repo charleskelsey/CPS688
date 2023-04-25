@@ -18,7 +18,7 @@ For i=1, 2,...,n we know the price(revenue) p[i] of a rod of length i inches.
 Cut possibilities for a rod of length 4: \
 1+1+1+1 for a total price of 1+1+1+1=4 \
 2+1+1 for a total price of: 5+1+1+1=8 \
-2+2 for a total price of 5+5=10 \ 
+2+2 for a total price of 5+5=10 \
 3+1 for a total price of 8+1=9 \
 
 For a rod of length 4: 2+2 is optimal (p[2]+p[2]=10)
