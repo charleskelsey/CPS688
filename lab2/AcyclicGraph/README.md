@@ -12,10 +12,15 @@ Input: your input should take the number of matrix size N. your matrix is a zero
 Output: your output is a binary matrix which has 1s for the blocks where queens are placed.
 
 Sample Input
+
 4 
 
 Sample Output
+
 0 0 1 0
+
 1 0 0 0
+
 0 0 0 1
+
 0 1 0 0
