@@ -9,9 +9,9 @@ Given an undirected graph, you are required to create its corresponding adjacenc
 Graph implementation above and print its vertices using Breadth First Search [ BFS ] and Depth
 First Search [ DFS ].
 
-Input
+Input \
 Each test case consists of two integers n and e, representing the number of vertices and edges
 respectively. The next e lines represent the vertices that are connected by an edge.
 
-Output
+Output \
 For each test case, print the graph using both BFS and DFS.
