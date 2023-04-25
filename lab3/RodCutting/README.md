@@ -43,3 +43,7 @@ representing the length of the rod followed by n elements representing the price
 Output \
 For each test case, determine the maximum value obtainable by cutting up the rod and selling
 the pieces.
+
+| Sample Input | Sample Output |
+| --- | --- |
+| 8 <br /> 1 5 8 9 10 17 17 20 | 22 |
