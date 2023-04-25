@@ -1,26 +1,21 @@
-The N Queen is the problem of placing N chess queens on an N×N chessboard so that no two
-queens attack each other.
+Given an undirected graph, you are required to check if the graph has a cycle.
 
-The idea is to place queens one by one in different columns, starting from the leftmost column.
-When placing a queen in a column, you should check for clashes with already placed queens (no
-more than one Q in the row and column).
+Hint: consider using BFS/DFS
 
-See the example below.
+Input
+Your program will be tested against multiple test cases. Each test case begins with two integers
+n and e, representing the number of vertices and edges. The next e lines represent the vertices
+that are connected by an edge.
 
-Input: your input should take the number of matrix size N. your matrix is a zeros matrix.
+Output
+For each test case, print “no” if the graph contains a cycle; else print “yes”
 
-Output: your output is a binary matrix which has 1s for the blocks where queens are placed.
-
-Sample Input
-
-4 
-
-Sample Output
-
-0 0 1 0
-
-1 0 0 0
-
-0 0 0 1
-
-0 1 0 0
+| Sample Input     | Sample Output     |
+| ---------------- | ----------------- |
+| 6 6              | no                |
+| 0 1              |                   |
+| 0 3              |                   |
+| 1 2              |                   |
+| 2 4              |                   |
+| 3 4              |                   |
+| 3 5              |                   |
