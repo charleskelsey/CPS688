@@ -9,3 +9,6 @@ r[n] obtainable by cutting up the rod and selling the pieces.
 Rod lengths are integers
 
 For i=1, 2,...,n we know the price(revenue) p[i] of a rod of length i inches.
+
+| Length i | 1 | 2 |
+| Price p[i] | 1 | 5 |
